@@ -1,6 +1,6 @@
 # kaggle-titanic
 This is a jupyter notebook solution for titanic problem in kaggle.
 
-Here, I am doing only exploratory data analysis. As I complete my online courses, I am going to apply classification model to the problem.
+Here, I am performing logistic regression to calculate the survival rate.
 
 References : https://www.kaggle.com/c/titanic/overview
